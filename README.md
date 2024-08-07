@@ -1,3 +1,1 @@
-# NovaOS Documentation.
-Welcome to the docs.
-Start exploring with the sidebar on the left.
+# NovaOS Documentation is avaliable on [docs.os.novafurry.win](https://docs.os.novafurry.win)
